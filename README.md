@@ -1,13 +1,13 @@
-# Welcome to my portfolio! :sparkles:
+# Welcome to my portfolio! ✨
 
-## About me :woman_cartwheeling:
+## About me 🤸‍♀️
 Hey! My name is Birgit, and I'm a QA Engineer with 6 months of experience, specializing in manual testing.
 
 My decision to transition into software testing became apparent when I realized at my previous job that I am a good problem solver and notice issues easily. I thought IT would be the perfect field to develop and put my quality assurance skills into action.
 
 I have participated in 6 different projects and worked both in a team and individually. I have competence in both manual testing and automation testing. To excel in my career, I am continuously developing myself in the QA field by taking on additional projects and courses.
 
-## Professional competencies :spiral_notepad:
+## Professional competencies 🗒️
 
 | Technical skills  |  Soft skills  |
 | ----------------- | ------------- |
@@ -28,7 +28,7 @@ I have participated in 6 different projects and worked both in a team and indivi
 | Scrum workflow |  Constructive feedback |
 
 
-## Tools :computer:
+## Tools 🖋️
 * **Jira** - bug reporting, time tracking
 * **Confluence** - test and team management
 * **Visual Studio Code** - executing automation tests with Cypress, coding with Javascript, HTML, CSS
@@ -38,10 +38,16 @@ I have participated in 6 different projects and worked both in a team and indivi
 * **Postman** - API testing
 * **Cypress** - test automation
 
-## Certificates :trophy:
+## Certificates 🏆
 [Manual QA Engineer](https://drive.google.com/file/d/1f-rG_aDGjaJQuzzmnpSzJdARlRBLU6j_/view?usp=sharing)
 
 [QA Automation Engineer](https://drive.google.com/file/d/1QJXm173NHyfIOwH2amDU_mcEB_1uWyZs/view?usp=sharing)
+
+## QA Projects 🖥️
+
+[Registration Forms(automation)](https://github.com/MadAphrodite/Registration_Forms_Automation.git)
+
+[Jira Clone Front-End(automation)](https://github.com/MadAphrodite/Jira_Clone_Front-End_Automation.git)
 
 
 
