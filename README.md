@@ -1,5 +1,4 @@
-# Portfolio
-## About me :woman_cartwheeling:
+# About me :woman_cartwheeling:
 Hey! My name is Birgit, and I'm a QA Engineer with 6 months of experience, specializing in manual testing.
 
 My decision to transition into software testing became apparent when I realized at my previous job that I am a good problem solver and notice issues easily. I thought IT would be the perfect field to develop and put my quality assurance skills into action.
