@@ -3,7 +3,7 @@ Hey! My name is Birgit, and I'm a QA Engineer with 6 months of experience, speci
 
 My decision to transition into software testing became apparent when I realized at my previous job that I am a good problem solver and notice issues easily. I thought IT would be the perfect field to develop and put my quality assurance skills into action.
 
-I have participated in 6 different projects and worked both in a team and individually. I have competence in both manual testing (exploratory testing, functional, regression and end-to-end testing) and automation testing (API testing, Cypress). To excel in my career, I am continuously developing myself in the QA field by taking on additional projects and courses.
+I have participated in 6 different projects and worked both in a team and individually. I have competence in both manual testing and automation testing. To excel in my career, I am continuously developing myself in the QA field by taking on additional projects and courses.
 
 | Technical skills  |  Soft skills  |
 | ----------------- | ------------- |
