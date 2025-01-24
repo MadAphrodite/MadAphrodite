@@ -32,11 +32,13 @@ I have participated in 6 different projects and worked both in a team and indivi
 * **Jira** - bug reporting, time tracking
 * **Confluence** - test and team management
 * **Visual Studio Code** - executing automation tests with Cypress, coding with Javascript, HTML, CSS
-* **Git** - tracking changes in the source code
+* **Git** - version control and tracking changes in the source code
 * **GitHub** - supporting Git and preparing my repositories
 * **Swagger** - API testing
 * **Postman** - API testing
 * **Cypress** - test automation
+* **Node.js** - running tests
+* **NPM(Node Package Manager)** - managing project dependencies and using different libraries
 
 ## Certificates 🏆
 [Manual QA Engineer](https://drive.google.com/file/d/1f-rG_aDGjaJQuzzmnpSzJdARlRBLU6j_/view?usp=sharing)
