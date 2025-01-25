@@ -39,6 +39,7 @@ I have participated in 6 different projects and worked both in a team and indivi
 * **Cypress** - test automation
 * **Node.js** - running tests
 * **NPM(Node Package Manager)** - managing project dependencies and using different libraries
+*  **DevTools** - inspecting UI elements, checking API requests 
 
 ## Certificates 🏆
 [Manual QA Engineer](https://drive.google.com/file/d/1f-rG_aDGjaJQuzzmnpSzJdARlRBLU6j_/view?usp=sharing)
