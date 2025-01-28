@@ -47,6 +47,11 @@ I have participated in 6 different projects and worked both in a team and indivi
 [QA Automation Engineer](https://drive.google.com/file/d/1QJXm173NHyfIOwH2amDU_mcEB_1uWyZs/view?usp=sharing)
 
 ## QA Projects 🖥️
+[Food Ordeting App](https://github.com/MadAphrodite/Food_Ordering_App)
+
+[Company Collaboration Platform](https://github.com/MadAphrodite/Company_Collaboration_Platform)
+
+[CRM App](https://github.com/MadAphrodite/CRM_App)
 
 [Registration Forms(automation)](https://github.com/MadAphrodite/Registration_Forms_Automation.git)
 
