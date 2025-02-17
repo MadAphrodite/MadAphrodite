@@ -56,9 +56,11 @@ I have participated in 6 different projects and worked both in a team and indivi
 
 #### Test Automation
 
-[Registration Forms(automation)](https://github.com/MadAphrodite/Registration_Forms_Automation.git)
+[Registration Forms](https://github.com/MadAphrodite/Registration_Forms_Automation.git)
 
-[Jira Clone Front-End(automation)](https://github.com/MadAphrodite/Jira_Clone_Front-End_Automation.git)
+[Jira Clone Front-End](https://github.com/MadAphrodite/Jira_Clone_Front-End_Automation.git)
+
+[Jira Clone Back-End](https://github.com/MadAphrodite/Jira_Clone_Back-End_Automation.git)
 
 
 
