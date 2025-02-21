@@ -62,6 +62,8 @@ I have participated in 6 different projects and worked both in a team and indivi
 
 [Jira Clone Back-End](https://github.com/MadAphrodite/Jira_Clone_Back-End_Automation.git)
 
+## Additional learning :hourglass: 
+[SQL Practice Assignments with W3Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 
 
 
